@@ -1,0 +1,9 @@
+c:\users\dmytro_heorhin\documents\visual studio 2017\Projects\Recoverable\Recoverable\bin\Debug\netcoreapp1.1\Recoverable.deps.json
+c:\users\dmytro_heorhin\documents\visual studio 2017\Projects\Recoverable\Recoverable\bin\Debug\netcoreapp1.1\Recoverable.runtimeconfig.json
+c:\users\dmytro_heorhin\documents\visual studio 2017\Projects\Recoverable\Recoverable\bin\Debug\netcoreapp1.1\Recoverable.runtimeconfig.dev.json
+c:\users\dmytro_heorhin\documents\visual studio 2017\Projects\Recoverable\Recoverable\bin\Debug\netcoreapp1.1\Recoverable.dll
+c:\users\dmytro_heorhin\documents\visual studio 2017\Projects\Recoverable\Recoverable\bin\Debug\netcoreapp1.1\Recoverable.pdb
+c:\users\dmytro_heorhin\documents\visual studio 2017\Projects\Recoverable\Recoverable\obj\Debug\netcoreapp1.1\Recoverable.csprojResolveAssemblyReference.cache
+c:\users\dmytro_heorhin\documents\visual studio 2017\Projects\Recoverable\Recoverable\obj\Debug\netcoreapp1.1\Recoverable.AssemblyInfo.cs
+c:\users\dmytro_heorhin\documents\visual studio 2017\Projects\Recoverable\Recoverable\obj\Debug\netcoreapp1.1\Recoverable.dll
+c:\users\dmytro_heorhin\documents\visual studio 2017\Projects\Recoverable\Recoverable\obj\Debug\netcoreapp1.1\Recoverable.pdb
